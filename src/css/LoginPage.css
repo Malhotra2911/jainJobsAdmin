@@ -1,0 +1,21 @@
+.login_main_contetn{
+    /* border: 3px solid green; */
+    display: flex;
+    flex-direction: column;
+    height: 99vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+.login_content{
+    width: 27%;
+    padding: 2rem;
+    gap: 1rem;
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* box-shadow: 0px 0px 1px 1px black; */
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}

@@ -1,0 +1,38 @@
+.subscription_admin {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    height: 69vh;
+}
+
+.subscription_card {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    height: 15vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0% 3% 0% 3%;
+    background-image: linear-gradient(to left, 
+    #FFFFFF, rgba(21, 185, 184, 0.6));
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+}
+.subscription_card_employer {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    height: 11vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0% 3% 0% 3%;
+    background-image: linear-gradient(to left, 
+    #FFFFFF, rgba(21, 185, 184, 0.6));
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+}

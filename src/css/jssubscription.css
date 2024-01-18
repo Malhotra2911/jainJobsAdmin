@@ -1,0 +1,26 @@
+.subscription_modal{
+    width: 50%;
+    position: fixed;
+    top: 15%;
+    height: 70%;
+    left: 25%;
+    background: #FFFFFF;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom right, 
+    #FFFFFF, rgba(56, 192, 192, 0.6));
+    align-items: center;
+}
+.plans_rate{
+    width: 90%;
+    display: grid;
+    justify-content: space-between;
+    row-gap: 1.5rem;
+    margin-top: 2rem;
+    grid-template-columns: auto auto;
+}
+.plans_modal_heading{
+    text-align: center;
+    margin-top: 7%;
+}

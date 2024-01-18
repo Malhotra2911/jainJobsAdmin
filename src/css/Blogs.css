@@ -1,0 +1,53 @@
+.background_img{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-image: url("../../public/img/backgroundnewnewimg.jpg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
+.tables_group{
+    width: 98%;
+    margin-top: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 3px solid green; */
+}
+.admin_dashboard_container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.admin_dashboard_content{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+
+}
+.buttons{
+    display: flex;
+    width: 98%;
+    align-items: center;
+    justify-content: space-around;
+    /* gap: 29rem; */
+}
+.createblog_link{
+    width: 15%;
+    text-decoration: none;
+}
+.resetpassword_heading{
+    text-align: center;
+    margin-top: 5%;
+}
+.reset_password{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 5%;
+}

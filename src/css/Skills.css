@@ -1,0 +1,60 @@
+.skillsbuttons {
+    display: flex;
+    width: 95%;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.skill_link {
+    width: auto;
+    text-decoration: none;
+}
+
+.table {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.table_bids {
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 60px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.heading_tab{
+    background: rgba(247, 112, 29, 0.39);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading_tab h3 {
+    font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 52px;
+color: #000000;
+}
+
+.heading_tab p {
+    font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+margin-left: 2%;
+margin-right: 2%;
+margin-bottom: 2%;
+line-height: 18px;
+color: #000000;
+}

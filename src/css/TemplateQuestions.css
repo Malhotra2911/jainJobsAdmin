@@ -1,0 +1,19 @@
+.template_questions_main_contents{
+    margin-top: 5%;
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.template_content{
+    /* border: 3px solid green; */
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    overflow-y: scroll;
+    margin: auto;
+}
